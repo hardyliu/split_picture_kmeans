@@ -2,14 +2,7 @@
 """
 Created on Wed Apr  3 18:39:33 2019
 
-@author: claireliu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  3 18:31:08 2019
-
-@author: claireliu
+@author: hardyliu
 """
 
 # -*- coding: utf-8 -*-
